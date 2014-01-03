@@ -1,0 +1,6 @@
+.idea
+old
+test_*.py
+*.log
+
+
