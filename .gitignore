@@ -2,5 +2,5 @@
 old
 test_*.py
 *.log
-
-
+*.pyc
+*.swp
