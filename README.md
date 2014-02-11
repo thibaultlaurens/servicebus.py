@@ -1,7 +1,7 @@
 servicebus.py
 =============
 
-inspired from https://github.com/mateodelnorte/servicebus - python version
+inspired by https://github.com/mateodelnorte/servicebus - python version
 
 
 
