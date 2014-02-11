@@ -1,6 +1,8 @@
 .idea
 old
-test_*.py
+
 *.log
 *.pyc
 *.swp
+
+test*.py
